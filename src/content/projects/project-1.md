@@ -1,8 +1,8 @@
 ---
 inProgress: false
-title: Project title
-description: Project description
+title: Gig on
+description: It is web platform
 img_alt: project image alt text
-link: https://github.com/veranikabarel?tab=repositories
-tags: ['React', 'CSS', 'Typescript']
+link: https://github.com/uthayaa2005
+tags: ['React', 'tailwinddCSS', 'Typescript']
 ---
